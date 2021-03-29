@@ -1,2 +1,1 @@
-this is just the test
-this is second test
+the new line added
