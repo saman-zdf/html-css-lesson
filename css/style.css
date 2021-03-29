@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+  font-size: 3rem;
+  text-align: center;
+}
+.box {
+  border: 2px solid red;
+}
+/* +plus will get the first element after choosen selector */
+div + p {
+  color: red;
+}
+.simple {
+  width: 500px;
+  margin: 30px auto;
+  border: 5px solid green;
+  padding: 2rem;
+  position: relative;
+}
+
+.fancy {
+  width: 500px;
+  margin: 30px auto;
+  border: 5px solid rgb(57, 77, 209);
+  padding: 2rem;
+  box-sizing: border-box;
+}

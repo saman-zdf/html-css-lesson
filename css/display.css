@@ -1,0 +1,11 @@
+p {
+  color: blue;
+}
+img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin: 1rem auto;
+  border-radius: 30px;
+  border-top-right-radius: 0;
+}
